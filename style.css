@@ -1,0 +1,40 @@
+body {
+  background-color: #1E1E2F; 
+  color: black;
+  font-family: sans-serif;
+  text-align: center; 
+  gap: 1px;
+  height: 100vh;
+
+}
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 4px solid #FFD700; /* Gold border */
+    border-radius: 50%; /* Circular */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+
+h1 {
+  background-color: white;
+  color: black;
+  font-family: 'Arial Black', sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 8px;
+  /* margin: 1px auto; */
+}
+
+h4{
+  font-size: 10px;
+  background-color: whitesmoke;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  gap: 1px;
+}
+
+
