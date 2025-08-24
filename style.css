@@ -1,0 +1,40 @@
+body {
+  background-color: turquoise;
+  color: sienna;
+  font-family: sans-serif;
+  text-align: center; 
+  justify-content: center;
+  gap: 1px;
+  height: 100vh;
+
+}
+
+
+h1 {
+  background-color: white;
+  color: black;
+  font-family: 'Arial Black', sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 8px;
+  /* margin: 1px auto; */
+}
+
+h4, p {
+  font-size: 10px;
+  background-color: whitesmoke;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  gap: 1px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid white;
+  /* margin: 1px 0; */
+}
